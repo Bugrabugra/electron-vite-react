@@ -15,7 +15,13 @@
     "node": ">=14.17.0"
   },
   "dependencies": {
-    "electron-store": "^8.0.1"
+    "@typescript-eslint/eslint-plugin": "^5.30.0",
+    "@typescript-eslint/parser": "^5.30.0",
+    "electron-store": "^8.0.1",
+    "eslint": "^8.18.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-react": "^7.30.1",
+    "prettier": "^2.7.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.12",
